@@ -2,8 +2,13 @@
 Student in Software Engineering and AI at UTBM,passionated by computer science I am always trying to improve my skills by building personal projects.
 
 ### Current Project : 
+
+#### Personnal Project
 Currently working on a Flutter App named GolfConnect. The goal of this app is facilitate the access to golf class for golfers and for the teachers to gain visibility.
 The repo is currently private but feel free to contact me for more information about this project.
+
+#### University Project
+Currently working on an AI on pacman using machine learning.
 
 ### Programming skills :
 
