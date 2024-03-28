@@ -2,7 +2,7 @@
 Student in Software Engineering and AI at UTBM,passionated by computer science I am always trying to improve my skills by building personal projects.
 
 ### Current Project : 
-Currently working on a clone of this project https://jsoncrack.com/
+Currently working on a clone of this project https://jsoncrack.com/  
 Using NuxtJS and Django.
 
 ### Programming skills :
