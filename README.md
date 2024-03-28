@@ -2,9 +2,8 @@
 Student in Software Engineering and AI at UTBM,passionated by computer science I am always trying to improve my skills by building personal projects.
 
 ### Current Project : 
-
-#### University Project
-Currently working on an AI on pacman using machine learning.
+Currently working on a clone of this project https://jsoncrack.com/
+Using NuxtJS and Django.
 
 ### Programming skills :
 
