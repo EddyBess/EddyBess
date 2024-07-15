@@ -2,8 +2,8 @@
 Student in Software Engineering and AI at UTBM,passionated by computer science I am always trying to improve my skills by building personal projects.
 
 ### Current Project : 
-Currently working on a clone of this project https://jsoncrack.com/  
-Using NuxtJS and Django.
+An app to be able to track your friend while they are running, and send them voice note to motivate them
+Flutter + Firebase
 
 ### Programming skills :
 
